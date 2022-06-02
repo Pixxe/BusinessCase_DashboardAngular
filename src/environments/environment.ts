@@ -4,7 +4,9 @@
 
 export const environment = {
   production: false,
-  urlBack: 'http://127.0.0.1:8000',
+  urlBack: '127.0.0.1:8000',
+  // urlBack: '127.0.0.1:8000',
+
 };
 
 /*
